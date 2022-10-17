@@ -1,0 +1,59 @@
+body{
+    background-color: burlywood;
+}
+.main-container{
+    height: 900px;
+    width: 900px;
+    margin-top: 90px;
+    padding: 48px;
+}
+.main-container .par{
+    padding: 29px;
+}
+.modimg{
+    height: 200px;
+    width: 200px;
+}
+.prop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.shibman{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 700px;
+    bottom: 50px;
+}
+.btn-group-vertical{
+    position: relative;
+    right: 400px;
+    bottom: 30px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.nav-link{
+    color: #fff;
+}
+.leash{
+    position: relative;
+    left: 300px;
+}
+.eco{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.fot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 23px;
+}
