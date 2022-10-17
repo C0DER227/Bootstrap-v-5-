@@ -35,6 +35,7 @@ body{
 .logo{
     height: 50px;
     width: 50px;
+    cursor: pointer;
 }
 .nav-link{
     color: #fff;
@@ -51,9 +52,11 @@ a{
     text-decoration: none;
 }
 .fot{
+    position: relative;
+    left: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10px;
-    padding: 23px;
+    margin: 20px;
+    padding: 3px;
 }
