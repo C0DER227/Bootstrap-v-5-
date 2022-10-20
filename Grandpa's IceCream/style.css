@@ -1,0 +1,27 @@
+.logo{
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.order{
+    position: relative;
+    left: 200px;
+    top: 60px;
+}
+.footer{
+    text-align: center;
+}
+.grandpa{
+    height: 500px;
+    width: 500px;
+}
+.slogan{
+    position: relative;
+    left: 80px;
+    top: 18px;
+    text-transform: capitalize;
+}
